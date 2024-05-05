@@ -1,0 +1,12 @@
+{
+  "Spacing": {
+    "xxs": {
+      "$type": "dimension",
+      "$value": "4px"
+    },
+    "xs": {
+      "$type": "dimension",
+      "$value": "8px"
+    }
+  }
+}

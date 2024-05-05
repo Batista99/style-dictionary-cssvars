@@ -1,0 +1,20 @@
+/* Include the generated variables */
+@import 'build/_variables.css';
+/*@import 'build/_colors.css';
+@import 'build/_spacing.css';*/
+
+/* Style the button */
+.styled-button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    color: #fff; /* Default text color */
+    background-color: var(--colors-primary); /* Use the primary color token */
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+/* Change background color on hover */
+.styled-button:hover {
+    background-color: var(--colors-secondary); /* Darken the primary color token on hover */
+}

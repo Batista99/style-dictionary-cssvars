@@ -1,0 +1,24 @@
+{
+  "Colors": {
+    "Green": {
+      "500": {
+        "$type": "color",
+        "$value": "#33c792"
+      }
+    },
+    "Blue-ocean": {
+      "600": {
+        "$type": "color",
+        "$value": "#2029fa"
+      }
+    },
+    "primary": {
+      "$type": "color",
+      "$value": "{Colors.Green.500}"
+    },
+    "secondary": {
+      "$type": "color",
+      "$value": "{Colors.Blue-ocean.600}"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "style-dictionary-demo",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "style-dictionary": "^3.9.2",
+    "style-dictionary-utils": "^2.2.1"
+  }
+}

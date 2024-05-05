@@ -1,0 +1,13 @@
+/**
+ * Do not edit directly
+ * Generated on Sun, 05 May 2024 19:52:59 GMT
+ */
+
+:root {
+  --spacing-xs: 0.5rem;
+  --spacing-xxs: 0.25rem;
+  --colors-blue-ocean-600: #2029fa;
+  --colors-green-500: #33c792;
+  --colors-secondary: var(--colors-blue-ocean-600);
+  --colors-primary: var(--colors-green-500);
+}
