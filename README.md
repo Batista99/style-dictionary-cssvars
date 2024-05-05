@@ -1,4 +1,4 @@
-# styles-dictionary-cssvars
+# style-dictionary-cssvars
 
 ## References
 
